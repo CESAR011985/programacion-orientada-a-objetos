@@ -6,12 +6,12 @@ def calcular_descuento(monto_total, porcentaje_descuento=10):
 
 def main():
     # Primera llamada a la función con el valor predeterminado del descuento (10%)
-    monto1 = 100.0  # Ejemplo de monto total de la compra
+    monto1 = 180.0  # Ejemplo de monto total de la compra
     descuento1 = calcular_descuento(monto1)
     monto_final1 = monto1 - descuento1
 
     # Segunda llamada a la función con un porcentaje de descuento especificado (por ejemplo, 15%)
-    monto2 = 200.0  # Ejemplo de monto total de la compra
+    monto2 = 250.0  # Ejemplo de monto total de la compra
     descuento2 = calcular_descuento(monto2, 15)
     monto_final2 = monto2 - descuento2
 
