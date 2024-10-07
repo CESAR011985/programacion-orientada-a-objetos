@@ -1,0 +1,3 @@
+1. Recordar estudiar para el examen de cálculo integral.
+2. Revisar la simulación del péndulo en Geogebra.
+3. Subir el proyecto final al repositorio de GitHub.
