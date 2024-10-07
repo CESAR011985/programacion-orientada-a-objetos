@@ -1,6 +1,6 @@
-# Creación y escritura en el archivo my_notes.txt
+# Ejemplo de Apertura de Archivo en python
 
-# Abre (o crea si no existe) el archivo en modo de escritura
+# Definimos el nombre del archivo
 with open('my_notes.txt', 'w') as file:
     # Escribe tres líneas de notas personales en el archivo
     file.write("1. Recordar estudiar para el examen de cálculo integral.\n")
